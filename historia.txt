@@ -7,3 +7,4 @@ Hoy hablaremos de su historia.
 En fotos parece oscuro pero es blanco.
 
 Hoy hablaremos de su vida.
+Está estudiando su maestría en Machine Learning.
